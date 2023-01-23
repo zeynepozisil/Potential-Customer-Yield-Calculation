@@ -7,3 +7,5 @@
 ### Example scenario: We want to determine how much a 25-year-old woman from Turkey using IOS can earn on average for the company.
 
 ### Using the personas we created as part of this project plays an important role in increasing net income and/or profit.
+
+- **Medium:** https://medium.com/@zeynepozisil
