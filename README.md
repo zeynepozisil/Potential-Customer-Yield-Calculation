@@ -1,4 +1,4 @@
-# Rule-Based-Classification
+# Rule Based Classification
 ## Potential Customer Yield Calculation
 
 - **Medium:** https://medium.com/@zeynepozisil
