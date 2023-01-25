@@ -1,7 +1,7 @@
 # Rule Based Classification
 ## Potential Customer Yield Calculation
 
-- **Medium:** https://medium.com/@zeynepozisil
+- **Medium:** https://medium.com/@zeynepozisil/potential-customer-yield-calculation-c5a43cfc3414
 
 
 ![Screenshot](müşteri.png)
